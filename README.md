@@ -54,13 +54,13 @@ netzwerk-visualisierung/
 
 📸 Screenshots (Platzhalter)
 
-
+---
 
 
 ## 🤝 Etwas zum Projekt beitragen
 
 **Pull Requests sind willkommen!**
-  Forken
-  Feature-Branch erstellen (feature/meine-funktion)
-  Änderungen committen
-  Pull Request stellen
+- Forken
+- Feature-Branch erstellen (feature/meine-funktion)
+- Änderungen committen
+- Pull Request stellen
