@@ -44,13 +44,13 @@ Ziel ist es, klassische statische Netzpläne (Visio, PDF) durch eine dynamische,
 
 ## 📂 Projektstruktur
 
-netzwerk-visualisierung/
-|-docs/ # Projekt-Dokumentation (Lastenheft, Pflichtenheft, Architektur)
-|- frontend/ # UI (React + Graph-Library)
-|- backend/ # API-Server & Business-Logik
-|- db/ # Datenbankschema & Migrationen
-|- deployment/ # Deploy-Configs (Docker, Kubernetes)
-|- README.md
+netzwerk-visualisierung
+- docs/ # Projekt-Dokumentation (Lastenheft, Pflichtenheft, Architektur)
+- frontend/ # UI (React + Graph-Library)
+- backend/ # API-Server & Business-Logik
+- db/ # Datenbankschema & Migrationen
+- deployment/ # Deploy-Configs (Docker, Kubernetes)
+- README.md
 
 📸 Screenshots (Platzhalter)
 
