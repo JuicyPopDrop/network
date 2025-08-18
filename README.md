@@ -28,13 +28,9 @@ Ziel ist es, klassische statische Netzpläne (Visio, PDF) durch eine dynamische,
 
 **Frontend**
 - React
-- Cytoscape.js / D3.js (Graph-Visualisierung)
-- TailwindCSS
 
 **Backend**
-- Node.js (Express) *oder* Python (Django/Flask)
-- REST- oder GraphQL-API
-- PostgreSQL oder Neo4j (Graph-DB)
+- Node.js (Express)
 
 **Deployment**
 - Docker & Docker Compose
