@@ -48,7 +48,9 @@ netzwerk-visualisierung
 - deployment/ # Deploy-Configs (Docker, Kubernetes)
 - README.md
 
-📸 Screenshots (Platzhalter)
+---
+
+## 📸 Screenshots (Platzhalter)
 
 <img width="1536" height="1024" alt="ChatGPT Image 18  Aug  2025, 21_13_22" src="https://github.com/user-attachments/assets/4660eb8f-1232-46eb-8285-c455e5275830" />
 
